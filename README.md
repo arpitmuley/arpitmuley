@@ -3,7 +3,7 @@ I'm Arpit Muley, Bachelor of Engineering in Computer Science & Master's in Cyber
 
 🔭 Currently, I'm dedicated to strengthening my skills in incident response and threat hunting, regularly trying HTB and Tryhackme boxes to learn things practically and theorotically in the cybersecurity domain.
 🌱 Constantly exploring innovative approaches to enhance security posture, leveraging automation, and streamlining incident response processes.
-💡 Passionate about collaborating on impactful open-source initiatives that advance cybersecurity practices and foster community-driven innovation.
+💡 Passionate about collaborating on impactful initiatives that advance cybersecurity practices and foster community-driven innovation.
 🌱 Always eager to upskill and stay ahead of the curve, I'm committed to learning new concepts and techniques in cybersecurity to enhance my knowledge and expertise.
 🚀 Let's Connect and Collaborate on Securing the Digital World!
 🌐 Explore my Portfolio to dive into my cybersecurity projects and contributions.
